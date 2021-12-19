@@ -28,14 +28,10 @@ glad_logo = "https://telegra.ph/file/ec3c057fcba5594151601.jpg"
 
 buttons = [
     [
-        (Button.url("Cʜᴀɴɴᴇʟ", url="https://t.me/Gladiators_Projects")),
-        (Button.url("Sᴜᴘᴘᴏʀᴛ", url="https://t.me/Gladiators_Support"))
+        (Button.url("my master", url="https://t.me/heartlessaryan_op")),
+        (Button.url("Sᴜᴘᴘᴏʀᴛ", url="https://t.me/+WawzaSG7y-BjMjQ1"))
     ],
-    [
-        (Button.url("Rᴇᴘᴏ", url="https://github.com/Gladiators-Projects/spammerbots")),
-        (Button.url("Tᴜᴛᴏʀɪᴀʟ", url="https://t.me/Gladiators_Projects/36"))
-    ]
-]
+        ]
 
 Bot1 = ''
 Bot2 = ''
