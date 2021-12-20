@@ -40,7 +40,7 @@ i) {hn}packspam (replying to any sticker)
 Syntax:
 i) {hn}hang <counter> (you can reply any message if you want bot to reply that message and do spamming)
 
-**©️ @TeamGladiators**
+
 """
 curse_menu = f"""
 **ıllıllı★ 𝙷𝚎𝚕𝚙 𝙼𝚎𝚗𝚞 ★ıllıllı**
@@ -75,7 +75,7 @@ i) {hn}dreplycurse <replying to anyone>
 ii) {hn}dreplycurse <username>
 
 
-**©️ @TeamGladiators**
+
 """
 sudo_menu = f"""
 **ıllıllı★ 𝙷𝚎𝚕𝚙 𝙼𝚎𝚗𝚞 ★ıllıllı**
@@ -86,7 +86,7 @@ sudo_menu = f"""
 **{hn}alive**: Check if bot is alive.
 
 
-**©️ @TeamGladiators**
+
 """
 
 dev_menu = f"""
@@ -103,7 +103,7 @@ ii) {hn}leave
 
 **{hn}reboot**: Restarts the bot!(Too fast! **Supersonic**)
 
-**©️ @TeamGladiators**
+
 """
 
 
@@ -158,7 +158,7 @@ help_menu = f"""
 **Example**: ```{hn}help spamcmds```
 
 
-**©️ @TeamGladiators**
+
 """
 
 alive_temxt = f"""
@@ -169,18 +169,20 @@ alive_temxt = f"""
 ║
 ╠═Bᴏᴛ Vᴇʀsɪᴏɴ ➪ 0.0.1
 ║
-╠═Cʜᴀɴɴᴇʟ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/Gladiators_Projects)
+╠═Cʜᴀɴɴᴇʟ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«]()
 ║
 ╠═Sᴜᴘᴘᴏʀᴛ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/Gladiators_Support)
-║
-╠═Rᴇᴘᴏsɪᴛᴏʀʏ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://github.com/Gladiators-Projects/spammerbots)
+
 ║
 ╚═════════════════╝
 
-**[©️]({ALIVE_MEDIA}) @TeamGladiators**
+
+
+
+
 """
 
-glad_logo = "https://telegra.ph/file/ec3c057fcba5594151601.jpg"
+glad_logo = "https://telegra.ph/file/df5f48872559df02fca0c.jpg"
 
 
 start_caption = f"""
@@ -193,13 +195,14 @@ I ᴄᴀɴ sᴘᴀᴍ ᴄᴏɴᴛɪɴᴜᴏsʟʏ ᴡɪᴛʜ ʟᴇss ғʟᴏᴏ�
 **『 [{OWNER_NAME}](tg://user?id={OWNER_ID}) 』**
 
 
-**[©️](https://telegra.ph/file/ec3c057fcba5594151601.jpg) @TeamGladiators**
+
 """
 
 
 
 start_caption1 = f"""
-**Nᴏᴡ ᴍᴇ ᴛᴏ ɪɴᴛʀᴏᴅᴜᴄᴇ ᴍʏsᴇʟғ.
+**Nᴏᴡ ᴍᴇ**Nᴏᴡ ᴍᴇ ᴛᴏ ɪɴᴛʀᴏᴅᴜᴄᴇ ᴍʏsᴇʟғ.
+ ᴛᴏ ɪɴᴛʀᴏᴅᴜᴄᴇ ᴍʏsᴇʟғ.
 I ᴀᴍ ᴍᴏsᴛ ᴘᴏᴡᴇʀғᴜʟʟ sᴘᴀᴍ-ʙᴏᴛ ᴇᴠᴇʀ ᴍᴀᴅᴇ!
 I'ᴍ ʜᴇʀᴇ ᴛᴏ ᴅᴇsᴛʀᴏʏ ʏᴏᴜʀ ᴏᴘᴘᴏɴᴇɴᴛ 🔥🔥🔥
 I ᴄᴀɴ sᴘᴀᴍ ᴄᴏɴᴛɪɴᴜᴏsʟʏ ᴡɪᴛʜ ʟᴇss ғʟᴏᴏᴅ-ᴡᴀɪᴛ ᴇʀʀᴏʀ ᴀɴᴅ ᴡɪᴛʜ ᴍᴏʀᴇ ᴀᴄᴄᴜʀᴀᴄʏ!**
@@ -211,13 +214,9 @@ I ᴄᴀɴ sᴘᴀᴍ ᴄᴏɴᴛɪɴᴜᴏsʟʏ ᴡɪᴛʜ ʟᴇss ғʟᴏᴏ�
 ║
 ╠═Bᴏᴛ Vᴇʀsɪᴏɴ ➪ 0.0.1
 ║
-╠═Cʜᴀɴɴᴇʟ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/Gladiators_Projects)
+╠═Cʜᴀɴɴᴇʟ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«]()
 ║
 ╠═Sᴜᴘᴘᴏʀᴛ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/Gladiators_Support)
-║
-╠═Rᴇᴘᴏsɪᴛᴏʀʏ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://github.com/Gladiators-Projects/spammerbots)
+
 ║
 ╚═════════════════╝
-
-**[©️](https://telegra.ph/file/ec3c057fcba5594151601.jpg) @TeamGladiators**
-"""
