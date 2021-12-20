@@ -169,9 +169,9 @@ alive_temxt = f"""
 ║
 ╠═Bᴏᴛ Vᴇʀsɪᴏɴ ➪ 0.0.1
 ║
-╠═Cʜᴀɴɴᴇʟ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«]()
+╠═owner ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/Heartlessaryan_op)
 ║
-╠═Sᴜᴘᴘᴏʀᴛ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/Gladiators_Support)
+╠═Sᴜᴘᴘᴏʀᴛ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/+WawzaSG7y-BjMjQ1)
 
 ║
 ╚═════════════════╝
@@ -214,9 +214,9 @@ I ᴄᴀɴ sᴘᴀᴍ ᴄᴏɴᴛɪɴᴜᴏsʟʏ ᴡɪᴛʜ ʟᴇss ғʟᴏᴏ�
 ║
 ╠═Bᴏᴛ Vᴇʀsɪᴏɴ ➪ 0.0.1
 ║
-╠═Cʜᴀɴɴᴇʟ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«]()
+╠═Cʜᴀɴɴᴇʟ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/Heartlessaryan_op)
 ║
-╠═Sᴜᴘᴘᴏʀᴛ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/Gladiators_Support)
+╠═Sᴜᴘᴘᴏʀᴛ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/+WawzaSG7y-BjMjQ1)
 
 ║
 ╚═════════════════╝
